@@ -1,0 +1,16 @@
+body {
+    background-color: #131416;
+}
+
+h1 {
+    color: white;
+}
+
+.blogForm {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.formLabel {
+    color: white;
+}
